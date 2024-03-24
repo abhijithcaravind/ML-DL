@@ -1,1 +1,1 @@
-# ML DL simple projects Seismic 
+# ML DL projects Seismic 
